@@ -5,8 +5,7 @@ A small, browser-based number guessing game built with plain HTML, CSS and JavaS
 ## Demo
 Open `index.html` in your browser to play locally:
 - [index.html](index.html)
-- the link for it: 
-
+- the link for it: https://haneenabdelhaleem111.github.io/Guess-My-Number/
 
 ## How to play
 1. The game picks a secret number between 1 and 100.
